@@ -5,16 +5,15 @@
 -->
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Systems Analysis and Development in Cruzeiro do Sul
-- 🌱 Currently studying node.js focused on backend
-- Open for project collaboration and internship opportunities. 
+
+- 🎓 &nbsp; Studying Systems Analysis and Development 
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Javascript | express |
+- 💻 &nbsp; Typescript | Javascript | express |abap
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | 
-- 🛢 &nbsp; MySQL | PostgresSql | Sqlite
+- 🛢 &nbsp; MySQL | PostgresSql | Sqlite |OpenSql
 - 🔧 &nbsp; Git | Postman API | Docker | TypeOrm |Jest
 
 ### 📫🤝🏻 Connect with Me
