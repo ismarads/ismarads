@@ -6,8 +6,8 @@
 
 
 
-- 🎓 &nbsp; Studying Systems Analysis and Development 
-
+- 🎓 &nbsp; Graduated in Systems Analysis and Development
+-  📝:pencil; SAP Certified ABAP for SAP HANA
 
 <h3>🛠 Tech Stack</h3>
 
