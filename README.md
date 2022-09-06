@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Typescript | Javascript | express |abap
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | 
-- 🛢 &nbsp; MySQL | PostgresSql | Sqlite |OpenSql
+- 🛢 &nbsp; MySQL | PostgresSql | Sqlite |OpenSql| HANA
 - 🔧 &nbsp; Git | Postman API | Docker | TypeOrm |Jest
 
 ### 📫🤝🏻 Connect with Me
