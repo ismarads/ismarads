@@ -7,7 +7,7 @@
 
 
 - 🎓 &nbsp; Graduated in Systems Analysis and Development
-- 📝 &nbsp; [SAP Certified ABAP for SAP HANA](shorturl.at/uvDOP)
+- 📝 &nbsp; [SAP Certified ABAP for SAP HANA
 
 <h3>🛠 Tech Stack</h3>
 
