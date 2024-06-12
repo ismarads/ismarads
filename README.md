@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Javascript | express |abap
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | 
+- 💻 &nbsp; Typescript | Javascript | express |ABAP-HANA
+- 🌐 &nbsp; HTML | CSS | UI5| Node.js|  
 - 🛢 &nbsp; MySQL | PostgresSql | Sqlite |OpenSql| HANA
-- 🔧 &nbsp; Git | Postman API | Docker | TypeOrm |Jest
+
 
 ### 📫🤝🏻 Connect with Me
 
