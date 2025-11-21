@@ -1,26 +1,26 @@
-### Hi, I'm Ismar Santos.👋
+👋 Olá! Sou Ismar Santos — Desenvolvedor SAP ABAP com experiência em S/4HANA, ABAP RAP, CAP, BTP, CDS Views, integrações e otimizações em HANA.
 
-<!--
-**ismarads/ismarads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🚀 Atuo no desenvolvimento e evolução de soluções SAP, com foco em qualidade, performance e boas práticas. 
 
+💼 Experiência prática:
+- Desenvolvimento ABAP clássico (Reports, ALV, Module Pool, Enhancements, BAdIs, User-Exits)
+- ABAP RAP (CRUD, Actions, Determinations, Validations, Service Bindings)
+- CDS Views (consumo, exposição, associações, joins complexos, modelagem)
+- Integrações (REST, CPI, PI/PO, IDocs)
+- Otimização de performance em SAP HANA (SQLScript, AMDP, troubleshooting)
+- Desenvolvimento SAP BTP (CAP, Node.js, Fiori/UI5)
+- Suporte AMS e melhorias funcionais em MM, SD, FI, TM, EWM
 
+📚 Interesses:
+- Arquitetura limpa no ecossistema SAP
+- ABAP Cloud & extensões no S/4HANA e BTP
+- Integrações cloud-native
+- Codificação orientada a performance e padrões modernos
 
-- 🎓 &nbsp; Graduated in Systems Analysis and Development
-- 📝 &nbsp; [SAP Certified ABAP for SAP HANA
+📫 Entre em contato:
+- ismarpp.santos@gmail.com
+- GitHub: https://github.com/ismarsantos
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Typescript | Javascript | express |ABAP-HANA
-- 🌐 &nbsp; HTML | CSS | UI5| Node.js|  
-- 🛢 &nbsp; MySQL | PostgresSql | Sqlite |OpenSql| HANA
-
-
-### 📫🤝🏻 Connect with Me
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/ismar-santos-ads/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:ismarpp.santos@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/ismarads)
 
 
 
